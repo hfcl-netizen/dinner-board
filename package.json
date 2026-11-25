@@ -1,0 +1,18 @@
+{
+  "name": "dinner-board",
+  "version": "1.0.0",
+  "description": "みんなの晩ごはん掲示板",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^5.22.0",
+    "cookies": "^0.9.2",
+    "dayjs": "^1.11.23",
+    "http-auth": "^4.2.1",
+    "prisma": "^5.22.0",
+    "pug": "^3.0.3"
+  }
+}
